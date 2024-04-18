@@ -1,4 +1,4 @@
-AWS re/start 💻
+AWS re/Start 💻
 ----------------------------
 
 🎓 AWS re/Start is a cohort-based workforce development training program that prepares individuals for careers in the cloud and connects them to potential employers. 
